@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-nuts",
+      "description": "A wide assortment of various nuts in bowls.",
+      "imageUrl": "https://images.unsplash.com/photo-1759167633294-a8a8a70078b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxudXRzJTIwYXNzb3J0bWVudHxlbnwwfHx8fDE3NjMzMzQ4NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nuts assortment"
+    },
+    {
+      "id": "almonds-taper",
+      "description": "A taper jar filled with almonds.",
+      "imageUrl": "https://images.unsplash.com/photo-1745970800075-66fa33624a83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhbG1vbmRzJTIwamFyfGVufDB8fHx8MTc2MzMzNDg1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "almonds jar"
+    },
+    {
+      "id": "walnuts-bag",
+      "description": "A bag filled with walnuts.",
+      "imageUrl": "https://images.unsplash.com/photo-1694958477432-a08889e68104?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d2FsbnV0cyUyMGJhZ3xlbnwwfHx8fDE3NjMzMzQ4NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "walnuts bag"
+    },
+    {
+      "id": "cashews-taper",
+      "description": "A taper jar filled with cashews.",
+      "imageUrl": "https://images.unsplash.com/photo-1707339019918-65008139984d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYXNoZXdzJTIwamFyfGVufDB8fHx8MTc2MzMzNDg1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cashews jar"
+    },
+    {
+      "id": "mixed-nuts-bag",
+      "description": "A bag filled with a mix of different nuts.",
+      "imageUrl": "https://images.unsplash.com/photo-1626697556426-8a55a8af4999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtaXhlZCUyMG51dHN8ZW58MHx8fHwxNzYzMjQwMjk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mixed nuts"
+    },
+    {
+      "id": "customer-1",
+      "description": "A smiling customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1607529378676-a20456ee2f6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc2MzMxODY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "customer-2",
+      "description": "Another smiling customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBoYXBweXxlbnwwfHx8fDE3NjMyMzg4NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person happy"
+    },
+    {
+      "id": "customer-3",
+      "description": "A third smiling customer.",
+      "imageUrl": "https://images.unsplash.com/photo-1707761830137-cb9dffed987e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjdXN0b21lciUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MzI3NDU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "customer portrait"
+    }
+  ]
+}
